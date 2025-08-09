@@ -9,4 +9,4 @@ adb shell am force-stop com.samsung.android.messaging
 adb shell am force-stop com.android.chrome
 adb shell am force-stop com.android.beta
 adb shell am force-stop com.sec.android.app.camera
-adb shell am com.google.android.calendar
+adb shell am force-stop com.google.android.calendar
